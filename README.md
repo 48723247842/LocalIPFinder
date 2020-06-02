@@ -1,7 +1,7 @@
 # Local IP Finder from Mac Address
 
 ```
-python3 -m pip install local_ip_finder
+python3 -m pip install local-ip-finder
 ```
 ```
 from local_ip_finder import IPFinder
